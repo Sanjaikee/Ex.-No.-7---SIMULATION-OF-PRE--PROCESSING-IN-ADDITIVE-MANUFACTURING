@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 19.10.2023
+### DATE: 27/11/2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -46,8 +46,8 @@
 ## Output:
 ![image](https://github.com/SASIDEVIvenaram/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707332/ee541aaf-682a-4df5-9d5e-673d7c32f8d4)
 
-### Name: HARINI M D
-### Register Number: 212222230043
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
